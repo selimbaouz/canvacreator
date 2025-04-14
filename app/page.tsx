@@ -33,7 +33,7 @@ export default function Home() {
           <div className={cn("grid grid-cols-2 w-full items-center gap-2", "md:w-max")}>
             <Button asChild color="primary" size="lg" className={cn("text-white mt-2 cursor-pointer", "lg:text-base")}>
               <Link 
-                href=""
+                href="https://www.linkedin.com/in/selimbaouz/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
