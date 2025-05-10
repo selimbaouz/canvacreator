@@ -18,7 +18,7 @@ const Content = () => {
   const {searchQuery} = useSnippetsFiltered();
 
   const models = ["Models"];
-  const categories = ["All categories", "Website", "Comeup ads", "Etsy ads", "Social media", "Presentation", "Logo", "Carousel", "Cover", "Product design", "CV"];
+  const categories = ["All categories", "Website", "Ebook Cover", "Comeup ads", "Etsy ads", "Social media", "Presentation", "Logo", "Carousel", "Cover", "Product design", "CV"];
 
   const filteredTemplates = templates.filter((template) => {
     const matchCategory =

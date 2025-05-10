@@ -249,4 +249,25 @@ export const templates = [
       category: "Product design",
       index: 35
     },
+        {
+      imageUrl: "/images/rules.png",
+      canvaLink: "https://www.canva.com/design/DAGnFBCbrZg/vfPojxTr0T8pKGlVk8txpA/edit?utm_content=DAGnFBCbrZg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+      type: "Models",
+      category: "Ebook Cover",
+      index: 36
+    },
+    {
+      imageUrl: "/images/budget1.png",
+      canvaLink: "https://www.canva.com/design/DAGnFBCbrZg/vfPojxTr0T8pKGlVk8txpA/edit?utm_content=DAGnFBCbrZg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+      type: "Models",
+      category: "Ebook Cover",
+      index: 37
+    },
+    {
+      imageUrl: "/images/budget2.png",
+      canvaLink: "https://www.canva.com/design/DAGnFBCbrZg/vfPojxTr0T8pKGlVk8txpA/edit?utm_content=DAGnFBCbrZg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+      type: "Models",
+      category: "Ebook Cover",
+      index: 37
+    },
   ];
